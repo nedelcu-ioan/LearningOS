@@ -1,0 +1,21 @@
+# Ignore the build directory where all build artifacts are stored
+build/
+
+# Ignore object files and other compiler outputs
+*.o
+
+# Ignore binary files and images
+*.bin
+*.iso
+
+# Ignore temporary files and backups
+*~
+*.swp
+.DS_Store
+
+# Ignore logs
+*.log
+
+# Ignore core dumps
+core
+
